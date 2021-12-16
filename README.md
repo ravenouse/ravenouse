@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ravenouse
 - 👀 I’m interested in NLP
-- 🌱 I’m currently gaining my master's degree at CU boulder
+
 
 
 <!---
