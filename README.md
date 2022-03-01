@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ravenouse
 - 👀 I’m interested in NLP
-_ My Personal Website: [zhiyongwang.me](zhiyongwang.me)
+- My Personal Website: [zhiyongwang.me](https://zhiyongwang.me/)
 
 <!---
 ravenouse/ravenouse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
