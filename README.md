@@ -1,7 +1,14 @@
-- Hi, I’m @ravenouse <br>
-I am a second year master student majoring in Computational Linguistics at CU Boulder.
-- I’m interested in ML/NLP
-- My Linkedin: https://www.linkedin.com/in/zhiyongwang10/
+<p align="center">
+  <img src="https://github.com/ravenouse/ravenouse/blob/main/image.png" alt="Alt text" width="800" height="350" />
+</p>
+
+
+
+
+## Hello 👋
+My name is Zhiyong Wang, and I am a second-year master's student majoring in Computational Linguistics at CU Boulder. My primary interest is in machine learning and natural language processing.
+
+📫 Please check my [Linkedin](https://www.linkedin.com/in/zhiyongwang10/) profile for more information.
 
 
 <!---
