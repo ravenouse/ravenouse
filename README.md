@@ -6,7 +6,7 @@
 
 
 ## Hello 👋
-My name is Zhiyong Wang, and I am a master's student with over 2 years of study in Computational Linguistics at CU Boulder. My primary interest is in machine learning and natural language processing.
+I'm Zhiyong Wang, a recent Master's graduate from CU Boulder with a specialization in NLP and Machine Learning, actively seeking opportunities in these exciting domains.
 
 📫 Please check my [Linkedin](https://www.linkedin.com/in/zhiyongwang10/) profile for more information.
 
